@@ -1,0 +1,79 @@
+CHANGELOG
+Space Moodle Theme
+- - - -
+## [2.1.2] - August 18, 2022
+Fixed:
++ Missing titles on the course index page (Moodle 4.0.2)
++ Minor bug fixes
+
+## [2.1.1] - August 9, 2022
+Improvements:
++ Language Icon
+
+Fixed:
++ Block #0 (Main Moodle Blocks) position 
+
+
+## [2.1] - August 5, 2022
+Added:
++ Course Card Description - Max Height (Space - Course Page)
++ Front Page Block - customization (Main Moodle Content Position - Block #0)
++ Front Page Block - Slider from Space 1.14 (Block #20)
++ Front Page Block - Content with Images 2-column grid (Block #21)
++ Front Page Block - Categories List (Block #22)
++ Front Page Block - Categories List - Legacy Block from Space 1.14 (Block #23)
++ Login page - Optional Forgot Password Link
++ Login page - Additional Content under the password field
++ Login page - Display a list of identity providers before or after the login form.
++ Login page - New layout #4 and #5 (Full height left/right)
++ Footer Social Icons
++ Footer Color Customization
++ Front Page - Main Moodle content included in front page content builder
++ Main Menu & Course Navigation Customization (navigation items on/off) (Space - Sidebar, Space - Course Page)
++ Optional teacher avatar inside the course card - (Space - Course Page - Display teachers)
++ Optional Default Moodle Footer Buttons (Space - Footer)
++ Top bar - Color Customization - Custom HTML Area -> Link Color, Link Color on Hover
++ Top bar - Custom height e.g for larger logo
++ Theme Setting - Sidebar Icon Color
++ FontAwesome (Theme Setting - General)
++ Sidebar - Additional field inside the main navigation container with sample code snippet (Sidebar - Custom Navigation Items)
+
+Improvements:
++ RWD Improvements
++ Course Card UI (each card has the same height)
++ Course Index Sidebar on the left
++ Hidden Sidebar (up to 1440px sidebar is next to the content)
++ Pagination Hover Color (Blue to Primary 600 - text, Primary 100 - background)
++ Site home - redirect=0 when the Start page for users is different than "Site home"
++ Theme color generator
++ Theme Settings - description Improvements
++ UI Improvements
+
+
+Fixes:
++ Block #2 Issue (Video Hero) - Show Colorized Content Wrapper
++ Block #4 (FAQ) translation issue
++ Calendar UI
++ Minor bug fixes
++ Now My Courses section is fully translatable
++ Plugins table and Settings and Uninstall button (UI)
++ Sidebar Color Customization
++ Theme settings issue - Top bar - Turn on a logo area
++ Quiz edit question issue
++ Unnecessary background image on the login page (Layout #2, #3)
+
+
+
+
+
+## [2.0.0] - June 3, 2022
++ Released
+
+What's new?
++ Completely rebuild the core of the theme
++ New User interface
++ In-build dark mode
++ New Front Page Builder
++ Better Performance 
++ 50% less CSS
++ and much more
