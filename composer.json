@@ -47,7 +47,7 @@
         "ext-json": "*",
         "ext-hash": "*",
         "ext-fileinfo": "*",
-        "stripe/stripe-php": "^9.2",
+        "stripe/stripe-php": "^9.3",
         "slim/slim": "3.*"
     },
     "suggest": {
